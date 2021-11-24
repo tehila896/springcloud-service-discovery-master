@@ -1,0 +1,11 @@
+
+plugins {
+    id 'application'
+}
+application {
+    mainClass = 'com.javalab.web.SpringCloudWebApplication'
+}
+dependencies {
+    implementation project(':springcloud-discovery')
+    implementation 'org.springframework.boot:spring-boot-starter-web'
+}

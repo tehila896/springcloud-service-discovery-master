@@ -1,0 +1,8 @@
+com/javalab/springcloud/registry/ServiceRegistry.java
+ com.javalab.springcloud.registry.ServiceRegistry
+com/javalab/springcloud/registry/ServiceRegistryImpl.java
+ com.javalab.springcloud.registry.ServiceRegistryImpl
+com/javalab/autoconfigure/SpringCloudDiscoveryAutoConfiguration.java
+ com.javalab.autoconfigure.SpringCloudDiscoveryAutoConfiguration
+com/javalab/springcloud/registry/ServiceInstanceMapper.java
+ com.javalab.springcloud.registry.ServiceInstanceMapper
